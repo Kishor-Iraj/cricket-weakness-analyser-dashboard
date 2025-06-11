@@ -1,5 +1,8 @@
 Cricket Weakness Analyser Dashboard
 
+## 🖼️ Dashboard Preview  
+![Dashboard](./St%20Dashoard1.PNG)
+![Dashboard](./St%20Dashoard2.PNG)
 Power BI project: interactive dashboard analyzing batsman dismissal patterns
 
  📖 Project Overview
