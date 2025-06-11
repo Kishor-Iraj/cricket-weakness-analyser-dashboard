@@ -5,7 +5,7 @@ Power BI project: interactive dashboard analyzing batsman dismissal patterns
  📖 Project Overview
 Built a Power BI dashboard that visualizes how different bowlers dismiss batsmen, using historical data:
 
-- Data Source:** 2000+ dismissal records in Excel  
+- Data Source: 2000+ dismissal records in Excel  
 - ETL: Power Query Editor transforms and loads data into a 5-table relational model  
 - Metrics & Measures: Custom DAX for % dismissals by bowler type, average runs before dismissal, and more  
 - Visuals:  
